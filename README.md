@@ -7,3 +7,6 @@ Right now, I’m building projects in **Java** and learning how to use **Spring*
 - 🎓 Student at *Instituto Tecnológico del Valle de Oaxaca*
 - 🔭 Goal: grow into a full-stack Java developer
 - 🛠️ Exploring: Java · Spring · OOP · backend development
+
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
